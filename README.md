@@ -115,11 +115,8 @@ src/
 
 ## Contributors 👥
 
-- [Neil Basant Maurya](https://github.com/yourprofile) (Team Lead)
-- [Team Member 2]()
-
-## License 📜
-This project is licensed under the MIT License - see [LICENSE.md](LICENSE.md) for details.
+- [Neil Basant Maurya](https://github.com/NeilMaurya) (Team Lead)
+- [Dhruv Chaudhary]()
 
 ---
 
