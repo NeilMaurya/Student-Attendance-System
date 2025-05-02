@@ -117,7 +117,6 @@ src/
 
 - [Neil Basant Maurya](https://github.com/yourprofile) (Team Lead)
 - [Team Member 2]()
-- [Team Member 3]()
 
 ## License 📜
 This project is licensed under the MIT License - see [LICENSE.md](LICENSE.md) for details.
