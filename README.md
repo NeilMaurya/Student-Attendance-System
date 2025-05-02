@@ -5,13 +5,6 @@ Here's a professional, detailed **README.md** template for your Student Attendan
 
 A robust Java web application for managing student attendance records with secure authentication, real-time reporting, and database integration.
 
-![Java](https://img.shields.io/badge/Java-17-blue)
-![Servlet](https://img.shields.io/badge/Jakarta_Servlet-5.0-orange)
-![MySQL](https://img.shields.io/badge/MySQL-8.0-lightblue)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-purple)
-
-![System Screenshot](https://via.placeholder.com/800x400?text=Student+Attendance+System+Dashboard) <!-- Replace with actual screenshot -->
-
 ## Features ✨
 
 - **Role-Based Access** (Admin/Teacher/Student)
