@@ -1,4 +1,3 @@
-```markdown
 # Student Attendance System 🎓
 
 A robust Java web application for managing student attendance records with secure authentication, real-time reporting, and database integration.
@@ -113,4 +112,3 @@ src/
 
 **Need Help?**  
 Open an issue or contact at `neilbmaurya@gmail.com`
-```
