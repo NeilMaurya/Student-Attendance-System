@@ -114,7 +114,7 @@ src/
 ---
 
 **Need Help?**  
-Open an issue or contact at `your.email@example.com`
+Open an issue or contact at `neilbmaurya@gmail.com`
 ```
 
 ### Key Highlights:
