@@ -51,7 +51,7 @@ CREATE TABLE attendance (
 ### Steps
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/yourusername/student-attendance-system.git
+   git clone https://github.com/neilmaurya/student-attendance-system.git
    ```
 
 2. **Database Setup**:
